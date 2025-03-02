@@ -40,5 +40,4 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 ```
 
-🎉 **Happy Building!**  
-![Android Robot](https://www.gstatic.com/android/android_robot_20.png)
+🎉 **Happy Building!**
