@@ -13,7 +13,7 @@
 </p>
 
 📌 **About Project**  
-Ryu-UI is a custom ROM based on AOSP which is developed by [Romi Yusnandar](https://github.com/romiyusnandar) a.k.a RyuDev (btw just personal project) ad focused to:
+Ryu-UI is a custom ROM based on AOSP which is developed by [Romi Yusnandar](https://github.com/romiyusnandar) a.k.a RyuDev (btw just personal project) and focused to:
 - ⚡ Optimize performance
 - 🎨 Minimalist design
 - 📱 Long-term support
@@ -32,7 +32,7 @@ Ryu-UI is a custom ROM based on AOSP which is developed by [Romi Yusnandar](http
 💬 **Support dev**  
 [![Telegram](https://img.shields.io/badge/Contact_RyuDevpr-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RyuDevpr)
 
-📜 **license**  
+📜 **License**  
 ```text
 Copyright 2025 Ryu-UI Org
 
