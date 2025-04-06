@@ -1,4 +1,4 @@
-![banner](https://github.com/RyuUI-Org/.github/blob/main/profile/banner.png)
+![banner](https://github.com/RyuUI-Org/.github/blob/main/profile/ryu-logo.png)
 
 <h1 align="center">🍥 Ryu-UI Org</h1>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge">
 </p>
 
-📌 **About Project**  
+📌 **About Project**
 Ryu-UI is a custom ROM based on AOSP which is developed by [Romi Yusnandar](https://github.com/romiyusnandar) a.k.a RyuDev (btw just personal project) and focused to:
 - ⚡ Optimize performance
 - 🎨 Minimalist design
@@ -29,10 +29,10 @@ Ryu-UI is a custom ROM based on AOSP which is developed by [Romi Yusnandar](http
 - [**AxionOS**](https://github.com/AxionAOSP)
 - And all the open source communities that I cannot mention one by one
 
-💬 **Support dev**  
+💬 **Support dev**
 [![Telegram](https://img.shields.io/badge/Contact_RyuDevpr-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RyuDevpr)
 
-📜 **License**  
+📜 **License**
 ```text
 Copyright 2025 Ryu-UI Org
 
